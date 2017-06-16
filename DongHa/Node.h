@@ -1,5 +1,4 @@
 #include <iostream>
-#include "stdio.h"
 class Node {
 private:
   double _coef;
